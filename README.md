@@ -1,9 +1,3 @@
-dev
-dev
-dev
-aster0
-master1
-master2
-dev0
-dev1
-dev2
+world
+world
+world
